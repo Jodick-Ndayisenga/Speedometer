@@ -1,5 +1,6 @@
 from __future__ import print_function
 #from calendar import month
+#And we import datetime module to help us
 import datetime
 import os.path
 
